@@ -10,6 +10,6 @@ public class Test {
 
         System.out.println("Enter a number ");
         int num = scanner.nextInt();
-        System.out.println("Hexa "+Integer.toHexString(num));
+        System.out.println("Hexadecimal "+Integer.toHexString(num));
     }
 }
